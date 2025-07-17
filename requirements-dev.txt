@@ -18,3 +18,4 @@ psycopg[binary]
 langchain_mcp_adapters==0.1.1
 langchain_neo4j
 falkordb
+cryptography>=3.1
