@@ -38,7 +38,7 @@ This project shows how to:
 ### 1. Clone and Setup
 
 ```bash
-git clone https://github.com/hipposys-ltd/s3-vector-bucket
+git clone https://github.com/ponderedw/s3-vector-bucket
 cd s3-vector-bucket
 cp template.env .env
 ```
@@ -85,7 +85,7 @@ index='your-vector-index-name'
 
 ```bash
 # Download NYC Planning dataset
-wget https://hipposys-public-assets.s3.us-east-1.amazonaws.com/newsletter-assets/NYC+Planning.zip
+wget https://ponder-public-assets.s3.us-east-1.amazonaws.com/newsletter-assets/NYC+Planning.zip
 unzip "NYC+Planning.zip" -d data/
 ```
 
